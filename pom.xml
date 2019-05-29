@@ -37,13 +37,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://3.91.149.74:8081/repository/sample-rel/</url>
+		<url>http://192.168.234.134:8081/repository/sample_release/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://3.91.149.74:8081/repository/sample-snap/</url>
+		<url>http://192.168.234.134:8081/repository/sample_snap/</url>
 	</snapshotRepository>
 
 </distributionManagement>
